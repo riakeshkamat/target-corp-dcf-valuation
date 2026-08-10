@@ -30,25 +30,30 @@ capex and depreciation; retained earnings rolls through net income and dividends
 APIC grows with stock-based compensation. Ending cash comes from the cash flow
 statement and links to the balance sheet, it isn't a plug.
 
-The DCF discounts FY2026E–FY2030E unlevered free cash flow at an 8.27% WACC. Terminal
+The DCF discounts FY2026E–FY2030E unlevered free cash flow at an 8.29% WACC. Terminal
 value uses a 2.0% perpetuity growth rate, with an 8.0x exit EV/EBITDA method as a
 cross-check. The sensitivity grid rebuilds the valuation independently in every cell.
+
+Forecast D&A is separated into an income-statement amount exclusive of depreciation
+embedded in cost of sales and a full cash-flow-statement amount. Full D&A is forecast
+at 3.0% of revenue, close to FY2025's reported 2.99%, and is used for the PP&E roll-forward,
+UFCF add-back, and EBITDA calculations.
 
 FY2021A/FY2022A revenue combines Target's original "Sales" + "Other revenue" lines to
 match the single "Net sales" line used from FY2023A onward.
 
 ## Key findings
 
-- Base-case WACC: **8.27%**
-- Gordon-growth implied share price: **$99.53**
+- Base-case WACC: **8.29%**
+- Gordon-growth implied share price: **$117.78**
 - Current share price (July 2, 2026): **$130.21**
-- Implied downside: **23.6%**
-- Exit-multiple cross-check: **$115.47 per share**
+- Implied downside: **9.5%**
+- Exit-multiple cross-check: **$126.76 per share**
 - Balance check: **$0 in every year, FY2021A–FY2030E**
 
 The base case suggests Target's shares are priced above conservative intrinsic value,
 driven by modest revenue recovery, a limited margin expansion path, and a terminal
-value constrained by the 8.27% WACC and 2.0% long-run growth assumption.
+value constrained by the 8.29% WACC and 2.0% long-run growth assumption.
 
 ## Limitations
 
